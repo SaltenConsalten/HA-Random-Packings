@@ -1,0 +1,14 @@
+&GLOBRUNPAR
+ PACK_type = 'Envipac',
+ D_PAC   = 0.6,		!Packungsdurchmesser Kolonne
+ A       = 98.4,		!Packungsoberfläche pro Kubikmeter Packung
+ B_0      = 0.01,	!Strebenlänge
+ H       = 0.5,		!Schüttungshöhe
+ LFK      = 0.058,	!charakteristische Länge Füllkörper
+ PHI     = 0.62,	!durchströmbarer Flächenanteil
+ GA      = 45,		!mittlerer Lagewinkel
+ EPS   = 0.961,		!Lückengrad
+ ISOTHERM  = T,
+/
+
+
